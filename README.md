@@ -1,6 +1,6 @@
 # codealpha_tasks
 
-# [global diaster analysis]
+# [global disaster (climate vs non-climate) analysis]
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
